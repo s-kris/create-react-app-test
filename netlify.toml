@@ -1,6 +1,6 @@
  
 [[redirects]]
-  from = "/blog*"
+  from = "/blog/*"
   to = "https://netlifyfreeaccount.superblog.cloud/:splat"
   status = 200
 
@@ -9,7 +9,3 @@
   to = "https://netlifyfreeaccount.superblog.cloud/_elderjs/:splat"
   status = 200 
 
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
